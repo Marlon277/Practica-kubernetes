@@ -3,6 +3,6 @@
 PROJECT_ID = 'miinstancia'
 
 # Memorystore configuration
-REDIS_HOST = '10.116.50.229'
+REDIS_HOST = '10.91.64.70'
 REDIS_PORT = 6379
 # REDIS_PASSWORD = 'password'
